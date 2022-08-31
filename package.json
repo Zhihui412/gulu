@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Zhihui412/gulu#readme",
   "dependencies": {
-    "vue": "^3.2.38"
+    "vue": "^2.7.10"
   }
 }
